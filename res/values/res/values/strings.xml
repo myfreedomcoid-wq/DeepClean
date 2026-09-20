@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deep Clean — Tanpa Jejak</string>
+    <string name="btn_clean">Mulai Pembersihan Menyeluruh</string>
+    <string name="btn_exclude">Atur Aplikasi yang Dikecualikan</string>
+    <string name="btn_save">Simpan Daftar</string>
+    <string name="title_exclude">Pilih aplikasi yang dilindungi</string>
+</resources>
